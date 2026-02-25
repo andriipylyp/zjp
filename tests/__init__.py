@@ -1,0 +1,1 @@
+# Balík pre testy.

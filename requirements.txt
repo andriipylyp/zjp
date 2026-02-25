@@ -1,0 +1,9 @@
+# Požadované balíky pre lokálne spúšťanie úloh a testov (VV1)
+# Poznámka: `unittest` je súčasť štandardnej knižnice Pythonu, preto tu nie je.
+
+pytest>=7.4,<9
+numpy>=1.24,<3
+pandas>=2.0,<3
+matplotlib>=3.7,<4
+scipy>=1.10,<2
+jupyterlab>=4,<5

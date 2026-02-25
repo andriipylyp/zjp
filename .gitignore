@@ -1,0 +1,29 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+
+# Test caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments (if used outside Anaconda base)
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VYTVORTE PRIECINOK s nazvom "notforgit"
+# DAVAJTE SEM SVOJE RESERSRY SUBORY/PRIECiNKY A KOPIE SUBOROV
+notforgit/
+
